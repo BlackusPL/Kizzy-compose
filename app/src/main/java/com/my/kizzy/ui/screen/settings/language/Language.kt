@@ -63,7 +63,7 @@ fun languages(): Map<String, String> =
         Pair("English", "en"),
         Pair("Turkish", "tr"),
         Pair("Dutch","nl"),
-        Pair("Russian", "ba"),
+        Pair("Russian", "ru"),
         Pair("Polish", "pl"),
         Pair("Portuguese", "pt"),
        /* Pair("Arabic", "ar"),

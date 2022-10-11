@@ -75,7 +75,7 @@ fun AppsRPC(onBackPressed: () -> Unit) {
             LargeTopAppBar(
                 title = {
                     Text(
-                        text = "Apps",
+                        text = stringResource(id = R.string.apps),
                         style = MaterialTheme.typography.headlineLarge,
                     )
                 },

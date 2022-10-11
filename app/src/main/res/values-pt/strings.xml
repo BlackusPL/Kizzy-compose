@@ -69,5 +69,12 @@
     <string name="enable_nintendoRpc">Enable Switch Rpc</string>
     <string name="rpc_settings">Rpc Settings</string>
     <string name="rpc_settings_desc">Advance presence settings for media and apps RPC</string>
+    <string name="apps" translatable="false">Aplicativos</string>
+    <string name="customrpc" translatable="false">Rpc personalizado</string>
+    <string name="mod_thx" translatable="false">Obrigado a ele por adicionar idiomas e corrigir algumas coisas</string>
+    <string name="logout">Sair</string>
+    <string name="user_profile">Perfil de usuário</string>
+    <string name="using_kizzy">USANDO</string>
+    <string name="aboutme">SOBRE MIM</string>
 
 </resources>

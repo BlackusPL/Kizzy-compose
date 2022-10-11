@@ -69,6 +69,13 @@
     <string name="enable_nintendoRpc">Switch RPC\'sini Etkinleştir</string>
     <string name="rpc_settings">RPC Ayarları</string>
     <string name="rpc_settings_desc">Medya ve Uygulama RPC\'si için gelişmiş presence ayarları</string>
+    <string name="mod_thx" translatable="false">Dil eklediği ve bazı şeyleri düzelttiği için ona teşekkürler</string>
+    <string name="customrpc" translatable="false">Özel Rpc</string>
+    <string name="apps" translatable="false">Uygulamalar</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="user_profile">Kullanıcı profili</string>
+    <string name="using_kizzy">KULLANMAK</string>
+    <string name="aboutme">BENİM HAKKIMDA</string>
 
 
 </resources>

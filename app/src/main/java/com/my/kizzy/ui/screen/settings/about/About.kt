@@ -83,6 +83,15 @@ fun About(
                     navigateToCredits()
                 }
             }
+            item {
+                SettingItem(
+                    title = "Modded by BlackusPL",
+                    description = stringResource(id = R.string.mod_thx),
+                    icon = Icons.Outlined.AutoAwesome
+                ) {
+                    openUrl("https://github.com/BlackusPL")
+                }
+            }
             item { 
                 SettingItem(
                     title = "Version",

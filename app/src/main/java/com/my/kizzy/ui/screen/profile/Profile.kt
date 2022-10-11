@@ -11,8 +11,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shape
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.my.kizzy.BuildConfig
+import com.my.kizzy.R
 import com.my.kizzy.ui.common.BackButton
 import com.my.kizzy.ui.theme.DISCORD_DARK
 import com.my.kizzy.ui.theme.DISCORD_LIGHT_DARK
@@ -108,6 +110,6 @@ fun Logout(
             contentColor = MaterialTheme.colorScheme.onErrorContainer
         )
     ) {
-        Text(text = "Logout")
+        Text(text = stringResource(id = R.string.logout),)
     }
 }

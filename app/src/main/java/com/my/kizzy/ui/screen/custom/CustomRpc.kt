@@ -120,7 +120,7 @@ fun CustomRPC(onBackPressed: () -> Unit) {
             LargeTopAppBar(
                 title = {
                     Text(
-                        text = "Custom Rpc",
+                        text = stringResource(id = R.string.customrpc),
                         style = MaterialTheme.typography.headlineLarge,
                     )
                 },

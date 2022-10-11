@@ -18,6 +18,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.ImageBitmap
 import androidx.compose.ui.res.imageResource
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
@@ -95,14 +96,14 @@ fun User() {
             .background(DISCORD_GREY)
         )
         CardText(
-            text = "ABOUT ME",
+            text = stringResource(id = R.string.aboutme),
             style = MaterialTheme.typography.titleSmall
         )
         CardText(text = user.about,
             style = MaterialTheme.typography.bodyMedium,
             bold = false)
         CardText(
-            text = "USING KIZZY RICH PRESENCE",
+            text = stringResource(id = R.string.using_kizzy) + " KIZZY RICH PRESENCE",
             style = MaterialTheme.typography.titleSmall
         )
         Row(Modifier
@@ -125,7 +126,7 @@ fun User() {
             }
             Column {
                 CardText(
-                    text = "User Profile",
+                    text = stringResource(id = R.string.user_profile),
                     style = MaterialTheme.typography.titleSmall
                         .copy(
                             fontFamily = FontFamily.Monospace,
