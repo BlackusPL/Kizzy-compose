@@ -110,6 +110,6 @@ fun Logout(
             contentColor = MaterialTheme.colorScheme.onErrorContainer
         )
     ) {
-        Text(text = stringResource(id = R.string.logout),)
+        Text(text = stringResource(id = R.string.logout))
     }
 }

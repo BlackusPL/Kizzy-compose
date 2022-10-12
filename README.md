@@ -8,8 +8,8 @@
 
 <img src="https://img.shields.io/github/downloads/dead8309/Kizzy/total?&style=flat-square&color=5b5ef7">
 
-<a href="https://github.com/BlackusPL/Kizzy-upgraded/releases/latest">
-<img alt="Release" src="https://img.shields.io/github/v/release/BlackusPL/Kizzy-upgraded?&style=flat-square&color=5b5ef7&display_name=release">
+<a href="https://github.com/dead8309/Kizzy/releases/latest">
+<img alt="Release" src="https://img.shields.io/github/v/release/dead8309/Kizzy?&style=flat-square&color=5b5ef7&display_name=release">
 </a>
 
 <img src="https://img.shields.io/github/workflow/status/dead8309/Kizzy/Release%20Apk?&style=flat-square&color=5b5ef7">
@@ -34,6 +34,14 @@
 </p>
 </div>
 
+## Download
+<a href="https://github.com/dead8309/Kizzy/releases/latest">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
+     alt="Download from GitHub"
+     height="60">
+</a>
+
+
 ## Screenshots
 <div>
 <img src="metadata/0.jpg" width="30%" />
@@ -41,10 +49,6 @@
 <img src="metadata/2.jpg" width="30%" />
 <img src="metadata/3.jpg" width="30%" />
 <img src="metadata/4.jpg" width="30%" />
-<img src="metadata/5.jpg" width="30%" />
-<img src="metadata/6.jpg" width="30%" />
-<img src="metadata/7.jpg" width="30%" />
-<img src="metadata/8.jpg" width="30%" />
 </div>
 
 ## Features
@@ -70,10 +74,6 @@
 Read the Setup Guide [at Gitbook](https://kizzy.gitbook.io/kizzy-docs/setup/setting-up-the-app)
 or watch the tutorial video
 [![IMAGE_ALT](https://img.youtube.com/vi/kjPDMHgsOcU/0.jpg)](https://www.youtube.com/embed/kjPDMHgsOcU)
-
-
-## Download
-Get the APK from the GitHub [release section](https://github.com/dead8309/Kizzy/releases/latest).
 
 
 ## Documentation
