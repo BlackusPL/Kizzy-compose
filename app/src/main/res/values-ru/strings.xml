@@ -76,6 +76,9 @@
     <string name="aboutme">ОБО МНЕ</string>
     <string name="using_kizzy">С ИСПОЛЬЗОВАНИЕМ</string>
     <string name="user_profile">Профиль пользователя</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_desc">Ознакомьтесь с Политикой конфиденциальности</string>
 
 
 </resources>

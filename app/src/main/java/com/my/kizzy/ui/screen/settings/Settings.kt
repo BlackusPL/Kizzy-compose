@@ -12,10 +12,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.EnergySavingsLeaf
-import androidx.compose.material.icons.outlined.Info
-import androidx.compose.material.icons.outlined.Palette
-import androidx.compose.material.icons.outlined.Person
-import androidx.compose.material.icons.outlined.SettingsSuggest
+import androidx.compose.material.icons.outlined.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
@@ -107,8 +104,8 @@ fun Settings(
                     }
                 }
 
+                }
             }
         }
     }
-}
 

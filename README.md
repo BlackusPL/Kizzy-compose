@@ -40,7 +40,9 @@
      alt="Download from GitHub"
      height="60">
 </a>
-
+<a href="https://apt.izzysoft.de/fdroid/index/apk/com.my.kizzy">
+<img src="https://codeberg.org/IzzyOnDroid/repo/raw/commit/6b8ffbd7746747238cb48f6076764eaf4e390316/assets/IzzyOnDroid.png">
+</a>
 
 ## Screenshots
 <div>
@@ -95,6 +97,10 @@ git clone https://github.com/dead8309/Kizzy.git
 - Import the project
 - Click on Build and Run
 
+> **Warning**
+> This app uses the Discord Gateway connection so this might not be safe. Use this at your own risk.
+However people have been using custom rich presence for past 4-5 years and there's is still no case of account getting terminated.
+
 ## Translate
 See [Contribute for Translation](https://github.com/dead8309/Kizzy/issues/2#issue-1370365856)
 
@@ -105,6 +111,8 @@ See [Contribute for Translation](https://github.com/dead8309/Kizzy/issues/2#issu
 ✨ [md3compat](https://github.com/re-ovo/md3compat) for Material You library
 
 ✨ [Rich-Presence-U](https://github.com/ninstar/Rich-Presence-U) for Nintendo and Wii U games data
+
+✨ [Vlog](https://github.com/girish3/Vlog) for logging library
 
 ### Licence 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)

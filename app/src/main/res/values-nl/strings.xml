@@ -76,6 +76,9 @@
     <string name="aboutme">ÜBER MICH</string>
     <string name="using_kizzy">VERWENDEN</string>
     <string name="user_profile">Benutzerprofil</string>
+    <string name="dark_theme">Dunkles Thema</string>
+    <string name="privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="privacy_policy_desc">Überprüfen Sie die Datenschutzrichtlinie</string>
 
 
 </resources>

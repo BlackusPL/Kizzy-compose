@@ -76,6 +76,9 @@
     <string name="using_kizzy">USING</string>
     <string name="user_profile">User Profile</string>
     <string name="aboutme">ABOUT ME</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_desc">Check the Privacy Policy</string>
 
 
 </resources>

@@ -60,7 +60,7 @@
     <string name="language">Dil</string>
     <string name="design_credits">Tasarıma Katkıda Bulunanlar</string>
     <string name="translation_credits">Çeviriye Katkıda Bulunanlar</string>
-    <string name="enable_appsRpc">Uygulama Algılamayı Etkinleştir</string>
+    <string name="enable_appsRpc">Uyg. Algılamayı Etkinleştir</string>
     <string name="usage_access">Kullanım Erişimi Gerekli</string>
     <string name="usage_access_desc">Kullanım Erişimi uygulama için mevcut çalışan uygulama hakkında bilgi edinmek için gereklidir</string>
     <string name="enable_mediaRpc">Medya RPC\'sini Etkinleştir</string>
@@ -69,13 +69,16 @@
     <string name="enable_nintendoRpc">Switch RPC\'sini Etkinleştir</string>
     <string name="rpc_settings">RPC Ayarları</string>
     <string name="rpc_settings_desc">Medya ve Uygulama RPC\'si için gelişmiş presence ayarları</string>
-    <string name="mod_thx" translatable="false">Dil eklediği ve bazı şeyleri düzelttiği için ona teşekkürler</string>
-    <string name="customrpc" translatable="false">Özel Rpc</string>
-    <string name="apps" translatable="false">Uygulamalar</string>
+    <string name="mod_thx">Dil eklediği ve bazı şeyleri düzelttiği için ona teşekkürler</string>
+    <string name="customrpc">Özel Rpc</string>
+    <string name="apps">Uygulamalar</string>
     <string name="logout">Çıkış Yap</string>
     <string name="user_profile">Kullanıcı profili</string>
     <string name="using_kizzy">KULLANMAK</string>
     <string name="aboutme">BENİM HAKKIMDA</string>
+    <string name="dark_theme">Koyu Tema</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="privacy_policy_desc">Gizlilik Politikasına göz at</string>
 
 
 </resources>

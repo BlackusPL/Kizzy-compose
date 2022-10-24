@@ -69,13 +69,16 @@
     <string name="enable_nintendoRpc">Nyalakan RPC Switch</string>
     <string name="rpc_settings">Setelan RPC</string>
     <string name="rpc_settings_desc">Lanjutan untuk media dan aplikasi rpc</string>
-    <string name="mod_thx" translatable="false">Terima kasih padanya karena telah menambahkan bahasa dan memperbaiki beberapa hal</string>
-    <string name="customrpc" translatable="false">Rpc khusus</string>
-    <string name="apps" translatable="false">Aplikasi</string>
+    <string name="mod_thx">Terima kasih padanya karena telah menambahkan bahasa dan memperbaiki beberapa hal</string>
+    <string name="customrpc">Rpc khusus</string>
+    <string name="apps">Aplikasi</string>
     <string name="logout">Keluar</string>
     <string name="user_profile">Profil Pengguna</string>
     <string name="using_kizzy">MENGGUNAKAN</string>
     <string name="aboutme">TENTANG SAYA</string>
+    <string name="dark_theme">Tema gelap</string>
+    <string name="privacy_policy">Kebijakan Pribadi</string>
+    <string name="privacy_policy_desc">Periksalah Kebijakan Pribadi</string>
 
 
 </resources>
