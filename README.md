@@ -8,8 +8,8 @@
 
 <img src="https://img.shields.io/github/downloads/dead8309/Kizzy/total?&style=flat-square&color=5b5ef7">
 
-<a href="https://github.com/dead8309/Kizzy/releases/latest">
-<img alt="Release" src="https://img.shields.io/github/v/release/dead8309/Kizzy?&style=flat-square&color=5b5ef7&display_name=release">
+<a href="https://github.com/BlackusPL/Kizzy-upgraded/releases/latest">
+<img alt="Release" src="https://img.shields.io/github/v/release/BlackusPL/Kizzy-upgraded?&style=flat-square&color=5b5ef7&display_name=release">
 </a>
 
 <img src="https://img.shields.io/github/workflow/status/dead8309/Kizzy/Release%20Apk?&style=flat-square&color=5b5ef7">
